@@ -2,8 +2,8 @@
 
 An end-to-end, AI-powered customer support agent built with a Retrieval-Augmented Generation (RAG) architecture. This chatbot is designed to provide highly accurate, professional, and context-aware responses by querying a specialized support dataset, strictly preventing AI hallucinations.
 
-![App Demo](image 1.png)
-![App Demo](image 2.png)
+![App Demo](image%201.png)
+![App Demo](image%202.png)
 
 ## ✨ Key Features
 
